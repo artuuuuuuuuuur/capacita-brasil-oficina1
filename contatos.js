@@ -1,3 +1,5 @@
+
+
 let contatos = [
   {
     nome: "João",
@@ -288,3 +290,5 @@ let contatos = [
     mensagem: "Como faço para alterar meu endereço?",
   },
 ];
+
+module.exports = contatos;
